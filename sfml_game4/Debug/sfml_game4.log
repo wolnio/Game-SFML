@@ -1,0 +1,49 @@
+﻿  main.cpp
+c:\users\koka\source\repos\sfml_game4\sfml_game4\main.cpp(16): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+c:\users\koka\source\repos\sfml_game4\sfml_game4\main.cpp(28): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\koka\source\repos\sfml_game4\sfml_game4\main.cpp(29): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\koka\source\repos\sfml_game4\sfml_game4\main.cpp(67): error C2259: "Body": nie można utworzyć instancji klasy abstrakcyjnej
+  c:\users\koka\source\repos\sfml_game4\sfml_game4\main.cpp(67): note: z powodu następujących elementów członkowskich:
+  c:\users\koka\source\repos\sfml_game4\sfml_game4\main.cpp(67): note: "char Body::getType(void)": jest abstrakcyjna
+  c:\users\koka\source\repos\sfml_game4\sfml_game4\body.h(12): note: zobacz deklarację „Body::getType”
+c:\users\koka\source\repos\sfml_game4\sfml_game4\main.cpp(94): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\koka\source\repos\sfml_game4\sfml_game4\main.cpp(107): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\koka\source\repos\sfml_game4\sfml_game4\main.cpp(161): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\koka\source\repos\sfml_game4\sfml_game4\main.cpp(169): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\koka\source\repos\sfml_game4\sfml_game4\main.cpp(175): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\koka\source\repos\sfml_game4\sfml_game4\main.cpp(209): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\koka\source\repos\sfml_game4\sfml_game4\main.cpp(212): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\koka\source\repos\sfml_game4\sfml_game4\main.cpp(213): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  Generowanie kodu...
+  Trwa kompilowanie...
+  Body.cpp
+c:\users\koka\source\repos\sfml_game4\sfml_game4\body.cpp(9): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\koka\source\repos\sfml_game4\sfml_game4\body.cpp(10): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\koka\source\repos\sfml_game4\sfml_game4\body.cpp(11): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\koka\source\repos\sfml_game4\sfml_game4\body.cpp(38): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\koka\source\repos\sfml_game4\sfml_game4\body.cpp(42): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\koka\source\repos\sfml_game4\sfml_game4\body.cpp(46): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\koka\source\repos\sfml_game4\sfml_game4\body.cpp(50): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  Generowanie kodu...
+  Trwa kompilowanie...
+  Venom.cpp
+c:\users\koka\source\repos\sfml_game4\sfml_game4\venom.cpp(11): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\koka\source\repos\sfml_game4\sfml_game4\venom.cpp(12): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\koka\source\repos\sfml_game4\sfml_game4\venom.cpp(13): warning C4305: "argument": obcięcie z "double" do "float"
+  Thor.cpp
+c:\users\koka\source\repos\sfml_game4\sfml_game4\thor.cpp(9): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\koka\source\repos\sfml_game4\sfml_game4\thor.cpp(10): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\koka\source\repos\sfml_game4\sfml_game4\thor.cpp(11): warning C4305: "argument": obcięcie z "double" do "float"
+  Spiderman.cpp
+c:\users\koka\source\repos\sfml_game4\sfml_game4\spiderman.cpp(9): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\koka\source\repos\sfml_game4\sfml_game4\spiderman.cpp(10): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\koka\source\repos\sfml_game4\sfml_game4\spiderman.cpp(11): warning C4305: "argument": obcięcie z "double" do "float"
+  Ironman.cpp
+c:\users\koka\source\repos\sfml_game4\sfml_game4\ironman.cpp(9): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\koka\source\repos\sfml_game4\sfml_game4\ironman.cpp(10): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\koka\source\repos\sfml_game4\sfml_game4\ironman.cpp(11): warning C4305: "argument": obcięcie z "double" do "float"
+  Hulk.cpp
+c:\users\koka\source\repos\sfml_game4\sfml_game4\hulk.cpp(10): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\koka\source\repos\sfml_game4\sfml_game4\hulk.cpp(11): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\koka\source\repos\sfml_game4\sfml_game4\hulk.cpp(12): warning C4305: "argument": obcięcie z "double" do "float"
+  Generowanie kodu...
